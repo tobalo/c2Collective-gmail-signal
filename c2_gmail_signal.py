@@ -15,9 +15,9 @@ server.ehlo()
 
 server.login('theyeetllc@gmail.com', 'XXXXXX')
 
-from_address = 'theyeetllc@gmail.com'
+from_address = 'example@gmail.com'
 ##to_address = 'signal@lists.collective2.com'
-to_address = ['tobalotv@gmail.com', 'ariesvtb@gmail.com', 'traderdave2112@gmail.com']
+to_address = ['user1@example.com', 'user2@example.com']
 
 signals = []
 
